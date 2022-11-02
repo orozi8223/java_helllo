@@ -1,7 +1,7 @@
 package java_hello;
 
 public class Av {
-
+//커밋테스트
 	public static void main(String[] args) {
 		
 		int kor=94;
